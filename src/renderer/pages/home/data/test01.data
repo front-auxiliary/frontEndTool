@@ -1,0 +1,16 @@
+#test 环境host
+
+192.168.205.2  main01.krspace.cn
+192.168.205.2  m01.krspace.cn
+192.168.205.2  coffee01.krspace.cn
+192.168.205.2  wechat01.krspace.cn
+192.168.205.2  app01.krspace.cn
+192.168.205.2  optest01.krspace.cn
+192.168.205.2  3dtest01.krspace.cn
+192.168.205.2  newtest01.krspace.cn
+192.168.205.2  mwebtest01.krspace.cn
+192.168.205.2  webtest01.krspace.cn
+192.168.205.2  cdntest01.krspace.cn
+192.168.205.2  membertest01.krspace.cn
+192.168.205.2  memberadmintest01.krspace.cn
+192.168.205.2  m.webtest01.krspace.cn

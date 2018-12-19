@@ -1,0 +1,204 @@
+#公共的hosts
+
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+
+#开发
+
+127.0.0.1  wechatlocal.krspace.cn
+127.0.0.1  initlocal.krspace.cn
+127.0.0.1  socketlocal.krspace.cn
+127.0.0.1  yhlocal.krspace.cn
+127.0.0.1  oplocal.krspace.cn
+
+127.0.0.1  huodonglocal.krspace.cn
+127.0.0.1  test.krspace.cn
+
+127.0.0.1  adminlocal.krspace.cn
+127.0.0.1  3dlocal.krspace.cn
+127.0.0.1  demo.krspace.cn
+127.0.0.1  mlocal.krspace.cn
+127.0.0.1  localtest.krspace.cn
+127.0.0.1  opdev.krspace.cn
+127.0.0.1  coffeelocal.krspace.cn
+127.0.0.1  mainlocal.krspace.cn
+127.0.0.1  applocal.krspace.cn
+127.0.0.1  memberlocal.krspace.cn
+
+127.0.0.1  vuelocal.krspace.cn
+127.0.0.1  navlocal.krspace.cn
+127.0.0.1  smartlocal.krspace.cn
+127.0.0.1  backlocal.krspace.cn
+
+127.0.0.1  homelocal.krspace.cn
+127.0.0.1  productlocal.krspace.cn
+127.0.0.1  demolocal.krspace.cn
+
+127.0.0.1  nextlocal.krspace.cn
+
+127.0.0.1  api.krspace.cn
+
+127.0.0.1  apilocal.krspace.cn
+
+127.0.0.1  yearlocal.krspace.cn
+127.0.0.1  newlocal.krspace.cn
+127.0.0.1  mweblocal.krspace.cn
+127.0.0.1  weblocal.krspace.cn
+127.0.0.1 novolocal.novo.cn
+
+#氪空间服务器
+
+
+#test01
+
+
+192.168.205.2  main01.krspace.cn
+192.168.205.2  m01.krspace.cn
+192.168.205.2  coffee01.krspace.cn
+192.168.205.2  wechat01.krspace.cn
+192.168.205.2  app01.krspace.cn
+192.168.205.2  optest01.krspace.cn
+192.168.205.2  3dtest01.krspace.cn
+192.168.205.2  newtest01.krspace.cn
+192.168.205.2  mwebtest01.krspace.cn
+192.168.205.2  webtest01.krspace.cn
+192.168.205.2  cdntest01.krspace.cn
+192.168.205.2  membertest01.krspace.cn
+192.168.205.2  memberadmintest01.krspace.cn
+192.168.205.2  m.webtest01.krspace.cn
+#test02
+
+192.168.205.3  m02.krspace.cn
+192.168.205.3  main02.krspace.cn
+192.168.205.3  coffee02.krspace.cn
+192.168.205.3  wechat02.krspace.cn
+192.168.205.3  app02.krspace.cn
+192.168.205.3  optest02.krspace.cn
+192.168.205.3  3dtest02.krspace.cn
+192.168.205.3  membertest02.krspace.cn
+192.168.205.3  newtest02.krspace.cn
+192.168.205.3  mwebtest02.krspace.cn
+192.168.205.3  webtest02.krspace.cn
+192.168.205.3  saastest02.novo.cn
+
+#192.168.205.3 sta.krspace.cn
+
+#test03
+192.168.206.3  optest03.krspace.cn
+192.168.206.3  doc.krspace.cn
+192.168.206.3  m03.krspace.cn
+192.168.206.3  main03.krspace.cn
+192.168.206.3  coffee03.krspace.cn
+192.168.206.3  wechat03.krspace.cn
+192.168.206.3  app03.krspace.cn
+192.168.206.3  3dtest03.krspace.cn
+192.168.206.3  membertest03.krspace.cn
+192.168.206.3  newtest03.krspace.cn
+192.168.206.3  mwebtest03.krspace.cn
+192.168.206.3  webtest03.krspace.cn
+192.168.206.3  memberadmintest03.krspace.cn
+
+#test04
+192.168.206.4 optest04.krspace.cn
+192.168.206.4  m04.krspace.cn
+192.168.206.4  main04.krspace.cn
+192.168.206.4  coffee04.krspace.cn
+192.168.206.4  wechat04.krspace.cn
+192.168.206.4  app04.krspace.cn
+192.168.206.4  3dtest03.krspace.cn
+192.168.206.4  membertest04.krspace.cn
+192.168.206.4  newtest04.krspace.cn
+192.168.206.4  mwebtest04.krspace.cn
+192.168.206.4  webtest04.krspace.cn
+192.168.206.4 memberadmintest04.krspace.cn
+
+#test05
+192.168.205.35 optest05.krspace.cn
+
+
+
+#test06
+
+192.168.205.36 apitest06.novoiot.com
+192.168.205.36 api-noptest06.novoiot.com
+192.168.205.36 noptest06.novoiot.com
+192.168.205.36 iottest06.novoiot.com
+192.168.205.36 mtest06.novoiot.com
+192.168.205.36 devicetest06.novoiot.com
+
+#test08
+192.168.200.18 app08.krspace.cn
+#智能硬件预上线
+#192.168.200.5 nop.krspace.cn
+#192.168.200.5 iot.krspace.cn
+#192.168.200.5 api-iot.krspace.cn
+#192.168.200.5 miot.krspace.cn
+#192.168.200.5 device.krspace.cn
+
+#智能硬件线上 01
+#192.168.203.34 nop.krspace.cn
+#192.168.203.34 iot.krspace.cn
+#192.168.203.34 api-iot.krspace.cn
+#192.168.203.34 miot.krspace.cn
+#192.168.203.34 device.krspace.cn
+
+#智能硬件线上 02
+#192.168.203.35 nop.krspace.cn
+#192.168.203.35 iot.krspace.cn
+#192.168.203.35 api-iot.krspace.cn
+#192.168.203.35 miot.krspace.cn
+#192.168.203.35 device.krspace.cn
+
+
+
+#dev01
+10.4.15.241 dev01.krspace.cn
+192.168.203.25 krnpm.krspace.cn
+
+
+#dev02
+10.4.15.242 dev02.krspace.cn
+10.4.15.242 memberdev02.krspace.cn
+#dev03
+10.4.15.243 dev03.krspace.cn
+
+#dev04
+10.4.15.244 dev04.krspace.cn
+#dev05
+10.4.15.245 dev05.krspace.cn
+
+
+# 氪空间
+
+
+# 线上机器 01
+
+
+192.168.203.3 op.krspace.cn
+
+192.168.203.3 m.krspace.cn
+#192.168.203.3 sta.krspace.cn
+#192.168.203.3 memberadmin.krspace.cn
+
+#192.168.203.3 member.krspace.cn
+#192.168.203.3 krspace.cn
+
+
+
+# 线上机器 02
+
+#192.168.203.4 op.krspace.cn
+#192.168.203.4 sta.krspace.cn
+#192.168.203.4 stalocal.krspace.cn
+
+#192.168.203.4 memberadmin.krspace.cn
+
+
+#192.168.203.4 member.krspace.cn
+
+# 服务端绑定
+#192.168.206.3 ali-docker-test04
+
+

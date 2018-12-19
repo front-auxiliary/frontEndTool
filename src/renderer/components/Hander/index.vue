@@ -1,25 +1,18 @@
 <template>
   <div class="hander">
-    <Menu 
-     
-      class="bar" 
-      :theme="theme3" 
-      active-name="1"
-    >
+    <Menu width="150px" class="bar"  active-name="0">
       <MenuGroup title="总览">
         <MenuItem to="/" name="0">
-          <Icon type="md-document"/>
-          使用学习
+          <Icon type="md-document"/>使用学习
         </MenuItem>
       </MenuGroup>
+
       <MenuGroup title="工具">
         <MenuItem to="/hosts" name="1">
-          <Icon type="md-document"/>
-          hosts
+          <Icon type="md-document"/>hosts
         </MenuItem>
-        <MenuItem  to="/nginx" name="2">
-          <Icon type="md-chatbubbles"/>
-          nginx
+        <MenuItem to="/nginx" name="2">
+          <Icon type="md-chatbubbles"/>nginx
         </MenuItem>
       </MenuGroup>
       <MenuGroup title="其他">
@@ -57,7 +50,7 @@ export default {
   width: 100vw;
   height: 100vh;
   display: grid;
-  grid-template-columns: 500px auto;
+  grid-template-columns: 150px auto;
   .bar {
     height: 100%;
   }
