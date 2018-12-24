@@ -2,21 +2,27 @@
   <div class="hander">
     <Menu width="150px" class="bar"  active-name="0">
       <MenuGroup title="总览">
-        <MenuItem to="/" name="0">
+        <MenuItem to="/" name="/">
           <Icon type="md-document"/>使用学习
+         
         </MenuItem>
+        <MenuItem to="/init" name="/init">
+        <Icon type="md-document"/>初始化环境
+         
+        </MenuItem>
+         
       </MenuGroup>
 
       <MenuGroup title="工具">
-        <MenuItem to="/hosts" name="1">
+        <MenuItem to="/hosts" name="/hosts">
           <Icon type="md-document"/>hosts
         </MenuItem>
-        <MenuItem to="/nginx" name="2">
+        <MenuItem to="/nginx" name="/nginx">
           <Icon type="md-chatbubbles"/>nginx
         </MenuItem>
       </MenuGroup>
       <MenuGroup title="其他">
-        <MenuItem to="/init-project" name="3">
+        <MenuItem to="/init-project" name="/init-project">
           <Icon type="md-heart"/>项目创建
         </MenuItem>
         <MenuItem name="4">

@@ -17,6 +17,7 @@ function createWindow () {
   /**
    * Initial window options
    */
+  console.log("nnnnmm---")
   mainWindow = new BrowserWindow({
     height: 563,
     useContentSize: true,
